@@ -101,7 +101,7 @@
     <div class="background">
       <div class="mask">
         <NuxtImg
-          src="/bathroom.jpg"
+          src="/Bathroom.jpg"
           alt="Bathroom"
           class="picture"
           width="800"
