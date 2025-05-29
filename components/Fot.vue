@@ -77,7 +77,7 @@
       <div class="social-networks">
         <a href="#" class="social-icon"><img src="/Facebook.svg" alt="Facebook"></a>
         <a href="#" class="social-icon"><img src="/Twitter.svg" alt="Twitter"></a>
-        <a href="#" class="social-icon"><img src="/LinKedin.svg" alt="LinkedIn"></a>
+        <a href="#" class="social-icon"><img src="/Linkedin.svg" alt="LinkedIn"></a>
         <a href="#" class="social-icon"><img src="/Instagram.svg" alt="Instagram"></a>
       </div>
 
