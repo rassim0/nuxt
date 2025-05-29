@@ -13,7 +13,7 @@
           <div
             class="slider-content"
             :style="{ transform: getSlideTransform() }"
-          >
+              >
 
 
 
