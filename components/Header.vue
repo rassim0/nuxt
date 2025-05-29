@@ -18,7 +18,7 @@
           </div>
         </div>
         <button class="contact-button">
-          <img src="/contact.svg" alt="">
+          <img src="/Contact.svg" alt="">
         </button>
       </div>
 
